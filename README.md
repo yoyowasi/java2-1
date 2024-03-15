@@ -5,7 +5,7 @@
 
 이번에는 올리자마!!
 
- ***java
+ ```java
  public class Test {
 
 	public static void main(String[] args) {
@@ -14,4 +14,4 @@
 
 	}
 
-}***
+}```
